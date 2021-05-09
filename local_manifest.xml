@@ -4,7 +4,7 @@
 	<remote  name="frost"
 		fetch="https://github.com/FrosT2k5" />
         <remote  name="dhruv"
-                fetch="https://github.com/DhruvChhura"
+                fetch="https://github.com/DhruvChhura" />
 	<remote  name="cosmos"
          	fetch="https://github.com/SuperCosmicBeing" />
 	<remote  name="dragon"
