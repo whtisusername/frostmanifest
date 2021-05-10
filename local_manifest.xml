@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-	<remote  name="frost"
-		fetch="https://github.com/FrosT2k5" />
-        <remote  name="dhruv"
-                fetch="https://github.com/DhruvChhura" />
-	<remote  name="cosmos"
-         	fetch="https://github.com/SuperCosmicBeing" />
-	<remote  name="dragon"
-		fetch="https://github.com/kdrag0n" />
- 	<remote name="frostlab"
-		fetch="https://gitlab.com/FrosT2k5" />
- 	<project path="device/xiaomi/ysl" name="android_device_xiaomi_ysl" remote="dhruv" revision="cph" clone-depth="1" />
-	<project path="kernel/xiaomi/ysl" name="android_kernel_xiaomi_ysl" remote="dhruv" revision="eleven" clone-depth="1" />
-	<project path="vendor/xiaomi/ysl" name="android_vendor_xiaomi_ysl" remote="dhruv" revision="11" clone-depth="1" />
+        <remote  name="whtisusername"
+                fetch="https://github.com/whtisusername" />
+ 	<project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="whtisusername" revision="cipher-11" clone-depth="1" />
+	<project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender-1" remote="whtisusername" revision="oldcam-eas" clone-depth="1" />
+	<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="whtisusername" revision="11" clone-depth="1" />
 </manifest>
