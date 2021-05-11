@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- 	<project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="SDM660-Project" revision="octavi-4.19" clone-depth="1" />
+ 	< remote="SDM660-Project"
+		fetch = "https://github.com/ChrisW444"
 	<project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="stormbreaker-project" revision="oldcam-eas" clone-depth="1" />
 	<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="whtisusername" revision="11" clone-depth="1" />
 </manifest>
