@@ -2,7 +2,7 @@
 <manifest>
 
  	<remote name="SDM660-Project"
-		fetch="https://github.com/ChrisW444" />
+		fetch="https://github.com/SDM660-Project/device_xiaomi_lavender"/>
 	<remote name="stormbreaker-project"
 		fetch="https://github.com/stormbreaker-project/kernel_xiaomi_lavender"/>
 	<remote  name="whtisusername"
