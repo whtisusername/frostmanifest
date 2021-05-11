@@ -7,12 +7,12 @@
 		
 		fetch="https://github.com/stormbreaker-project/kernel_xiaomi_lavender"/>
         <remote  name="whtisusername"  
-	 fetch
+	 fetch="https://github.com/whtisusername/vendor_xiaomi_lavender"/>
 		
 
 		
 	
 	
 			
-	https://github.com/whtisusername/vendor_xiaomi_lavender"/>
+	
 </manifest>
