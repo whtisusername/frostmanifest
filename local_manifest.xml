@@ -5,7 +5,7 @@
 		fetch="https://github.com/ChrisW444" />
 	<remote name="stormbreaker-project"
 		fetch="https://github.com/stormbreaker-project/kernel_xiaomi_lavender"/>
-		remote  name="whtisusername"  
+		remote  name="whtisusername" 
 	        fetch="https://github.com/whtisusername/vendor_xiaomi_lavender"/>
 		
         
