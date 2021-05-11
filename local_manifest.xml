@@ -4,7 +4,7 @@
  	<remote name="SDM660-Project"
 		fetch="https://github.com/ChrisW444" />
 	<remote name="stormbreaker-project"
-		https://github.com/stormbreaker-project/kernel_xiaomi_lavender
+		https://github.com/stormbreaker-project/kernel_xiaomi_lavender" />
 	
 	<remote="whtisusername"
 	https://github.com/whtisusername/vendor_xiaomi_lavender
