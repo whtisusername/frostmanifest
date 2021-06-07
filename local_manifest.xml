@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote  name="mukulsharma05175"                fetch="https://github.com/mukulsharma05175" />
+        <remote  name="mukulsharma05175" fetch="https://github.com/mukulsharma05175" />
 
  	<remote name="device_xiaomi_lavender"
 		fetch="https://github.com/Descendant-Devices/device_xiaomi_lavender.git"/>
