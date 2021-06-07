@@ -3,12 +3,7 @@
         <remote  name="mukulsharma05175" 
                 fetch="https://github.com/mukulsharma05175" />
 
- 	<remote  name="device_xiaomi_lavender"
-	       fetch="https://github.com/Descendant-Devices/device_xiaomi_lavender.git"/>
-	<remote  name="kernel_xiaomi_lavender"
-	       fetch="https://github.com/stormbreaker-project/kernel_xiaomi_lavender"/>
-	<remote  name="vendor_xiaomi_lavender"
-	        fetch="https://github.com/Descendant-Devices/vendor_xiaomi_lavender.git"/>
+
 
         <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="mukul" revision="eleven" clone-depth="1" />
         <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="mukul" revision="eas-oldcam" clone-depth="1" />
