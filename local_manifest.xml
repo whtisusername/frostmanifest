@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote  name="mukulsharma05175" 
-                fetch="https://github.com/mukulsharma05175" />
+        <remote  name="mukulsharma06175" 
+                fetch="https://github.com/mukulsharma06175" />
       
          
-        <project path="device/xiaomi/lavender" name="device_xiaomi_sdm660-common" remote="mukulsharma05175" revision="eleven" clone-depth="1" />
+        <project path="device_xiaomi_lavender" name="device_xiaomi_lavender" remote="mukulsharma05175" revision="eleven" clone-depth="1" />
         <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="mukulsharma05175" revision="eas-oldcam" clone-depth="1" />
-        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_sdm660-common" remote="mukulsharma05175" revision="eleven" clone-depth="1" />
+        <project path="vendor_xiaomi_lavender" name="vendor_xiaomi_lavender" remote="mukulsharma05175" revision="eleven" clone-depth="1" />
 </manifest>
 
         	
