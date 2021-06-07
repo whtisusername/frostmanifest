@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- 	<remote name="SDM660-Project"
-		fetch="https://github.com/SDM660-Project"/>
-	<remote name="stormbreaker-project"
+ 	<remote name="device_xiaomi_lavender"
+		fetch="https://github.com/Descendant-Devices/device_xiaomi_lavender.git"/>
+	<remote name="kernel_xiaomi_lavender"
 		fetch="https://github.com/stormbreaker-project/kernel_xiaomi_lavender"/>
-	<remote  name="whtisusername"
-	        fetch="https://github.com/whtisusername/vendor_xiaomi_lavender"/>
+	<remote  name="vendor_xiaomi_lavender"
+	        fetch="https://github.com/Descendant-Devices/vendor_xiaomi_lavender.git"/>
 </manifest>	
 
 
