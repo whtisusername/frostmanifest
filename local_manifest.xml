@@ -5,7 +5,7 @@
       
          
         <project path="device_xiaomi_lavender" name="device_xiaomi_sdm660-common" remote="mukulsharma06175" revision="cipher-11" clone-depth="1" />
-        <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender_4.19" remote="mukulsharma06175" revision="4.19-stable" clone-depth="1" />
+        <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender-1" remote="mukulsharma06175" revision="oldcam-eas" clone-depth="1" />
         <project path="vendor_xiaomi_lavender" name="vendor_xiaomi_lavender" remote="mukulsharma06175" revision="11" clone-depth="1" />
 </manifest>
 
