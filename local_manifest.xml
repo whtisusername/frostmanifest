@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
-  <remote name="github"
+  <remote name="mukulsharma06175"
           fetch="https://github.com/mukulsharma06175" />
 
   <!-- Trees -->
