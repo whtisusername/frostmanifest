@@ -5,14 +5,12 @@
           fetch="https://github.com" />
 
   <!-- Trees -->
-  <project path="device/xiaomi/lavender" name="CherishOS-Devices/device_xiaomi_lavender" remote="github" revision="eleven" />
-  <project path="kernel/xiaomi/sdm660" name="stormbreaker-project/kernel_xiaomi_lavender" remote="github" revision="oldcam-eas" />
-  <project path="device/xiaomi/sdm660-common" name="CherishOS-Devices/device_xiaomi_sdm660-common" remote="github" revision="eleven" />
-  <project path="vendor/xiaomi/lavender" name="CherishOS-Devices/android_vendor_xiaomi_lavender" remote="github" revision="eleven" />
-  <project path="vendor/xiaomi/sdm660-common" name="CherishOS-Devices/vendor_xiaomi_sdm660-common" remote="github" revision="eleven" />
-  <project path="hardware/qcom-caf/msm8998-r/audio" name="raiyanbinmohsin/hardware_qcom-caf_audio_msm8998" remote="github" revision="11" />
-  <project path="hardware/qcom-caf/msm8998-r/media" name="raiyanbinmohsin/hardware_qcom-caf_media_msm8998" remote="github" revision="11" />
-  <project path="hardware/qcom-caf/msm8998-r/display" name="raiyanbinmohsin/hardware_qcom-caf_display_msm8998" remote="github" revision="11" />
+  <project path="device/xiaomi/lavender" name="mukulsharma06175/device_xiaomi_lavender-5" remote="github" revision="fluid-11" />
+  <project path="kernel/xiaomi/sdm660" name="NotZeetaa/nexus_kernel_lavender" remote="github" revision="eas" />
+  <project path="device/xiaomi/sdm660-common" name="Project-Fluid-Devices/device_xiaomi_sdm660-common" remote="github" revision="fluid-11" />
+  <project path="vendor/xiaomi/lavender" name="Project-Fluid-Devices/vendor_xiaomi_lavender" remote="github" revision="fluid-11" />
+  <project path="vendor/xiaomi/sdm660-common" name="Project-Fluid-Devices/vendor_xiaomi_sdm660-common" remote="github" revision="fluid-11" />
+  
 </manifest>
 
         	
