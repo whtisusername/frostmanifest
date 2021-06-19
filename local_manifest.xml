@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
-  <remote name="github"
-          fetch="https://github.com" />
+  <remote name="mukulsharma06175"
+          fetch="https://github.com/mukulsharma06175" />
   <remote name="alanndz"
           fetch="https://github.com/alanndz" />
   <!-- Trees -->
-        <project path="device/xiaomi/lavender" name="Komodo-OS-Devices/device_xiaomi_lavender-old" remote="github" revision="11"/>
-        <project patch="device/xiaomi/sdm660-common" name="alanndz/device_xiaomi_sdm660-common" remote="alanndz" revision="11" />
+        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-old" remote="mukulsharma06175" revision="11"/>
+        <project patch="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="alanndz" revision="11" />
         <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="mukulsharma06175" revision="eas" />
         <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="alanndz" revision="eleven" />
         <project patch="vendor/Xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="alanndz" revision="eleven"/>
