@@ -7,7 +7,7 @@
           fetch="https://github.com/alanndz" />
   <!-- Trees -->
         <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-old" remote="mukulsharma06175" revision="11"/>
-        <project patch="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="alanndz" revision="11" />
+        <project patch="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="alanndz" revision="eleven" />
         <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="mukulsharma06175" revision="eas" />
         <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="alanndz" revision="eleven" />
         <project patch="vendor/Xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="alanndz" revision="eleven"/>
