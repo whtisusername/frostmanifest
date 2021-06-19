@@ -3,7 +3,7 @@
   
   <remote name="github"
           fetch="https://github.com" />
-
+  <remote name="alanndz"
   <!-- Trees -->
         <project path="device/xiaomi/lavender" name="Komodo-OS-Devices/device_xiaomi_lavender-old-" remote="github" revision="11"/>
         <project patch="device/xiaomi/sdm660-common" name="alanndz/device_xiaomi_sdm660-common" remote="alanndz" revision="11" />
