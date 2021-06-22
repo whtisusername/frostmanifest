@@ -2,7 +2,7 @@
 <manifest>
   
   <remote name="github"
-          fetch="https://github.com/" />
+          fetch="https://github.com/mukulsharma06175" />
 
   <!-- Trees -->
         <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-5" remote="mukulsharma06175" revision="11"/>
