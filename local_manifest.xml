@@ -5,8 +5,8 @@
           fetch="https://github.com/" />
 
   <!-- Trees -->
-        <project path="device/xiaomi/lavender" name="DerpFest-Devices/device_xiaomi_lavender" remote="github" revision="11"/>
-        <project patch="device/xiaomi/sdm660-common" name="DerpFest-Devices/device_xiaomi_lavender-common" remote="github" revision="11" />
+        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-5" remote="mukulsharma06175" revision="11"/>
+        <project patch="device/xiaomi/sdm660-common" name="device_xiaomi_lavender-common-1" remote="mukulsharma06175" revision="11" />
         <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="mukulsharma06175" revision="eas" />
         <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-7" remote="mukulsharma06175" revision="11" />
         <project patch="vendor/Xiaomi/sdm660-common" name="vendor_xiaomi_lavender-common" remote="mukulsharma06175" revision="11"/>
