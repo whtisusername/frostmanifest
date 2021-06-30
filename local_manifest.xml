@@ -3,11 +3,14 @@
   
   <remote name="mukulsharma06175"
           fetch="https://github.com/mukulsharma06175" />
+  <remote name="ChrisW444"
+          fetch="https://github.com/ChrisW444" />
 
-  <!-- Trees -->
+
         <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="mukulsharma06175" revision="Derphies"/>
         <project path="kernel/xiaomi/lavender" name="nexus_kernel_lavender" remote="mukulsharma06175" revision="eas" />
         <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-7" remote="mukulsharma06175" revision="11" />
+        <project path="vendor/XiaomiParts" name="vendor_XiaomiParts" remote="ChrisW444" revision="4.4-kernel" />
         
 </manifest>
 
